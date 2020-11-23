@@ -1,0 +1,20 @@
+{
+    "name": "python-guizero-project-snippets",
+    "displayName": "Python Guizero Project Snippets",
+    "description": "Some basic Python Guizero snippets.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "'python'",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
